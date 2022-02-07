@@ -9,7 +9,7 @@ After cleaning and merging the key data sources (information regarding rides and
 ## Results
 The figure below illustrates the five indicators of rideshare experience between rural, suburban, and urban cities between January to May 2019. 
 
-![all text](
+![all text](https://raw.githubusercontent.com/lgonzales1/PyBer_Analysis/main/Resources/Pyber_dataframe.png)
 
 ### All Results by City Type
 
@@ -22,7 +22,7 @@ The figure below illustrates the five indicators of rideshare experience between
 ### Total Fare by City Type
 Similar to our analysis above, from January to May 2019, urban cities have the highest total fare while rural cities have the lowest. 
 
-![alt text](
+![alt text](https://raw.githubusercontent.com/lgonzales1/PyBer_Analysis/main/Analysis/PyBer_fare_summary.png)
 
 ## Summary
 Based on our analysis, I recommend the following to address disparities between rural, suburban, and urban areas:
